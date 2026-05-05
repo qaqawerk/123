@@ -3,9 +3,7 @@
  
 This Unity demo uses echo3D's 3D model streaming in combination with [ManoMotion](https://www.manomotion.com/), a framework for hand-tracking and gesture recognition in AR. Any number of models can be uploaded to the echo3D console and streamed into the app. You can tap on any detected horizontal plane to move the active model to that location, and use the button at the top of the screen to switch to the next model. The button can be tapped on via the screen, but it can also be used by placing your hand in front of the camera and making a "click" gesture behind the button, as shown below.
 
-## Register
-* Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register) to get an echo3D API key.
-* Register for FREE at [ManoMotion](https://www.manomotion.com/registration/?gf_plan=ce) to get a ManoMotion license key.
+
 
 ## Setup
 * Clone this project and open it in Unity 2020.1.2 (or newer).
